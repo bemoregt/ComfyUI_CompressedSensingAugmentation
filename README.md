@@ -2,6 +2,8 @@
 
 A custom ComfyUI node that reconstructs an image from only **10% randomly sampled k-space (Fourier) coefficients** using rigorous Compressed Sensing theory.
 
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_CompressedSensingAugmentation/blob/main/ScrShot%206.png)
+
 ---
 
 ## Algorithm
