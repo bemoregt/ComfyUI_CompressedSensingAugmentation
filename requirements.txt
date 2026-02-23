@@ -1,0 +1,5 @@
+# Required
+numpy
+
+# Strongly recommended (better/faster TV denoising)
+scikit-image>=0.19
